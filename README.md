@@ -1,4 +1,5 @@
-![images (3)](https://github.com/user-attachments/assets/726e7e64-7091-41fc-9719-a42eec3d354c)
+![images_9353691196_bf0353ae89496-O-que-e-SQL-Server](https://github.com/user-attachments/assets/fd233c6f-b192-4dd0-a6b5-781db246dc6a)
+
 
 
 ##### El proyecto consistió en la creación de una base de datos para FastFood, una cadena ficticia de restaurantes de comida rápida. El objetivo principal fue diseñar un sistema de gestión de datos utilizando SQL, permitiendo registrar y analizar las operaciones comerciales de la empresa. A pesar del éxito con la apertura de nuevas sucursales, Henry FastFood tenía una gestión de información dispersa en archivos de Google Sheets y documentos manuales.
