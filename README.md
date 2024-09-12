@@ -1,4 +1,5 @@
-![images_9353691196_bf0353ae89496-O-que-e-SQL-Server](https://github.com/user-attachments/assets/fd233c6f-b192-4dd0-a6b5-781db246dc6a)
+
+![Larana (1)](https://github.com/user-attachments/assets/7aead966-5a56-4f87-8f81-5ab0ef6404ee)
 
 
 
